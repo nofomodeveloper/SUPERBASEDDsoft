@@ -5,3 +5,11 @@
 5. Запустите программу main.py , предварительно введите свои данные в базу data.csv в формате twitter,wallet,email,discord
 6. Непосредственно в коде в 9 строке пропишите путь до Chrome Driver, а так же в 102 строке пропишите путь до data.csv файла
 7. Запустите программу, при завершении в консоли пропишется сообщение "Регистрация завершена для всех записей."
+
+1. Enter the command "pip install selenium" into the command line/terminal
+2. Install the driver to work with the selenium library, I recommend installing it from the official website: https://developer.chrome.com/docs/chromedriver?hl=ru
+3. Place the driver in PATH: using the command line on the mac " sudo mv chromedriver /usr/local/bin/"
+4. Install Vidcoder!!!! from the official website: https://visualstudio.microsoft.com/ru/downloads/
+5. Run the program main.py , pre-enter your data into the data.csv database in the format twitter,wallet,email,discord
+6. Directly in the code in line 9, write the path to Chrome Driver, as well as in line 102, write the path to the data.csv file
+7. Run the program, when completed, the message "Registration is completed for all entries." will be displayed in the console.
